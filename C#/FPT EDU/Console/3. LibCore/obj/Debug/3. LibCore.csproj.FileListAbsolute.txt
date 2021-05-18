@@ -1,0 +1,2 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\3. LibCore\obj\Debug\3. LibCore.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\3. LibCore\obj\Debug\3. LibCore.csproj.CoreCompileInputs.cache

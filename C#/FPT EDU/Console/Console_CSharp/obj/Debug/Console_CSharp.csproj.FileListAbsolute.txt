@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\Console_CSharp\bin\Debug\Console_CSharp.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\Console_CSharp\bin\Debug\Console_CSharp.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\Console_CSharp\obj\Debug\Console_CSharp.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\Console_CSharp\obj\Debug\Console_CSharp.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\Console_CSharp\obj\Debug\Console_CSharp.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\Console_CSharp\obj\Debug\Console_CSharp.pdb
