@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\6. Looping\bin\Debug\_6.Looping.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\6. Looping\bin\Debug\_6.Looping.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\6. Looping\obj\Debug\6. Looping.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\6. Looping\obj\Debug\6. Looping.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\6. Looping\obj\Debug\_6.Looping.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\6. Looping\obj\Debug\_6.Looping.pdb

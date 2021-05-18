@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\8. Nullrable\bin\Debug\_8.Nullrable.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\8. Nullrable\bin\Debug\_8.Nullrable.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\8. Nullrable\obj\Debug\8. Nullable.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\8. Nullrable\obj\Debug\8. Nullable.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\8. Nullrable\obj\Debug\_8.Nullrable.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\8. Nullrable\obj\Debug\_8.Nullrable.pdb

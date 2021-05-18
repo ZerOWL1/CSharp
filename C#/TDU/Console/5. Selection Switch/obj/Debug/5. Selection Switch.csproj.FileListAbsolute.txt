@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\5. Selection Switch\bin\Debug\_5.Selection_Switch.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\5. Selection Switch\bin\Debug\_5.Selection_Switch.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\5. Selection Switch\obj\Debug\5. Selection Switch.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\5. Selection Switch\obj\Debug\5. Selection Switch.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\5. Selection Switch\obj\Debug\_5.Selection_Switch.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\5. Selection Switch\obj\Debug\_5.Selection_Switch.pdb

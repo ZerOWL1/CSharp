@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\2. Variables\bin\Debug\_2.Variables.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\2. Variables\bin\Debug\_2.Variables.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\2. Variables\obj\Debug\2. Variables and Datatypes.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\2. Variables\obj\Debug\2. Variables and Datatypes.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\2. Variables\obj\Debug\_2.Variables.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\2. Variables\obj\Debug\_2.Variables.pdb

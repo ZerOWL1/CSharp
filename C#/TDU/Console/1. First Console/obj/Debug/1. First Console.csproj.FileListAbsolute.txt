@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\1. First Console\bin\Debug\_1.First_Console.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\1. First Console\bin\Debug\_1.First_Console.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\1. First Console\obj\Debug\1. First Console.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\1. First Console\obj\Debug\1. First Console.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\1. First Console\obj\Debug\_1.First_Console.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\1. First Console\obj\Debug\_1.First_Console.pdb

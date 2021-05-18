@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\3. Cast Data Types\bin\Debug\_3.Cast_Data_Types.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\3. Cast Data Types\bin\Debug\_3.Cast_Data_Types.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\3. Cast Data Types\obj\Debug\3. Cast Data Types.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\3. Cast Data Types\obj\Debug\3. Cast Data Types.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\3. Cast Data Types\obj\Debug\_3.Cast_Data_Types.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\TDU C#\Console\CSharp Console\3. Cast Data Types\obj\Debug\_3.Cast_Data_Types.pdb
