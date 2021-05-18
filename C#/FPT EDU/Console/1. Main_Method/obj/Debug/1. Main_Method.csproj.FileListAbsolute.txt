@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\1. Main_Method\bin\Debug\_1.Main_Method.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\1. Main_Method\bin\Debug\_1.Main_Method.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\1. Main_Method\obj\Debug\1. Main_Method.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\1. Main_Method\obj\Debug\1. Main_Method.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\1. Main_Method\obj\Debug\_1.Main_Method.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\1. Main_Method\obj\Debug\_1.Main_Method.pdb
