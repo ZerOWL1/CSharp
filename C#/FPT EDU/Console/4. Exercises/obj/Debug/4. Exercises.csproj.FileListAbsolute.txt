@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\4. Exercises\bin\Debug\_4.Exercises.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\4. Exercises\bin\Debug\_4.Exercises.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\4. Exercises\obj\Debug\4. Exercises.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\4. Exercises\obj\Debug\_4.Exercises.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\4. Exercises\obj\Debug\_4.Exercises.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\4. Exercises\obj\Debug\4. Exercises.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\5. Static Keyword\bin\Debug\_5.Static_Keyword.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\5. Static Keyword\bin\Debug\_5.Static_Keyword.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\5. Static Keyword\obj\Debug\5. Static Keyword.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\5. Static Keyword\obj\Debug\5. Static Keyword.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\5. Static Keyword\obj\Debug\_5.Static_Keyword.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\5. Static Keyword\obj\Debug\_5.Static_Keyword.pdb

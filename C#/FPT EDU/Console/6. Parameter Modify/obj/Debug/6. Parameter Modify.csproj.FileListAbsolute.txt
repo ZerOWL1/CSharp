@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\6. Parameter Modify\bin\Debug\_6.Parameter_Modify.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\6. Parameter Modify\bin\Debug\_6.Parameter_Modify.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\6. Parameter Modify\obj\Debug\6. Parameter Modify.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\6. Parameter Modify\obj\Debug\_6.Parameter_Modify.exe
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\6. Parameter Modify\obj\Debug\_6.Parameter_Modify.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRJ292\Project\Console\Demo_Console_.NetFra\6. Parameter Modify\obj\Debug\6. Parameter Modify.csprojAssemblyReference.cache
