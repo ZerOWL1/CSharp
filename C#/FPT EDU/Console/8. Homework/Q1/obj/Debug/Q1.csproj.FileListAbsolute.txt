@@ -1,0 +1,5 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\Console\Demo_Console_.NetFra\8. Homework\Q1\bin\Debug\Q1.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\Console\Demo_Console_.NetFra\8. Homework\Q1\bin\Debug\Q1.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\Console\Demo_Console_.NetFra\8. Homework\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\Console\Demo_Console_.NetFra\8. Homework\Q1\obj\Debug\Q1.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\Console\Demo_Console_.NetFra\8. Homework\Q1\obj\Debug\Q1.pdb
