@@ -1,0 +1,6 @@
+C:\Users\Ryuu\Desktop\Labs\Lab1_HE141223_HaiLD\bin\Debug\Lab1_HE141223_HaiLD.exe
+C:\Users\Ryuu\Desktop\Labs\Lab1_HE141223_HaiLD\bin\Debug\Lab1_HE141223_HaiLD.pdb
+C:\Users\Ryuu\Desktop\Labs\Lab1_HE141223_HaiLD\obj\Debug\Lab1_HE141223_HaiLD.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\Labs\Lab1_HE141223_HaiLD\obj\Debug\Lab1_HE141223_HaiLD.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\Labs\Lab1_HE141223_HaiLD\obj\Debug\Lab1_HE141223_HaiLD.exe
+C:\Users\Ryuu\Desktop\Labs\Lab1_HE141223_HaiLD\obj\Debug\Lab1_HE141223_HaiLD.pdb
