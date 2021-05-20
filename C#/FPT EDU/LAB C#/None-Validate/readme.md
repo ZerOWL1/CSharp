@@ -1,2 +1,2 @@
 Lab with None Validate
-- Dữ liệu chuẩn, không check đúng format đề bài
+- Dữ liệu chuẩn, check đúng format đề bài
