@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +22,7 @@ namespace Lab1_HE141223_HaiLD
             Console.WriteLine("4. Statistics. ");
             Console.WriteLine("5. Exit. ");
             Console.Write("Enter a option (1-5): ");
-            int input = int.Parse(Console.ReadLine());
+            float input = float.Parse(Console.ReadLine());
 
             switch (input)
             {
