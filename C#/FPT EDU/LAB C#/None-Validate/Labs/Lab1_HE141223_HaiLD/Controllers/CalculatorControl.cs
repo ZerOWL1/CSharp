@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace Lab1_HE141223_HaiLD.Controllers
     class CalculatorControl
     {
         //declare array with 1000 value
-        private static int[] arr = new int[1000];
+        private static float[] arr = new float[1000];
 
         //declare count to save value range in array
         private static int count = 0;
@@ -25,7 +25,7 @@ namespace Lab1_HE141223_HaiLD.Controllers
             else
             {
                 //add value 
-                int value = int.Parse(Console.ReadLine());
+                float value = float.Parse(Console.ReadLine());
 
                 //set value at count index and count += 1 also print message
                 arr.SetValue(value, count);
@@ -57,7 +57,7 @@ namespace Lab1_HE141223_HaiLD.Controllers
         //search Value method
         public static void searchValue()
         {
-            int input = int.Parse(Console.ReadLine());
+            float input = float.Parse(Console.ReadLine());
 
             //check value in array exist or not
             if (arr.Contains(input))
@@ -100,10 +100,10 @@ namespace Lab1_HE141223_HaiLD.Controllers
         }
 
         //find min, max func
-        public static void findMinMax(int[] numbers)
+        public static void findMinMax(float[] numbers)
         {
-            int min = numbers[0];
-            int max = numbers[0];
+            float min = numbers[0];
+            float max = numbers[0];
 
             for (int i = 0; i < count; i++)
             {
@@ -121,9 +121,9 @@ namespace Lab1_HE141223_HaiLD.Controllers
         }
 
         //find sum
-        public static int Sum()
+        public static float Sum()
         {
-            int sum = 0;
+            float sum = 0;
             for (int i = 0; i < count; i++)
             {
                 sum += arr[i];
