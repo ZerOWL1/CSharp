@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\1. IO Stream\bin\Debug\_1.IO_Stream.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\1. IO Stream\bin\Debug\_1.IO_Stream.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\1. IO Stream\obj\Debug\1. IO Stream.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\1. IO Stream\obj\Debug\1. IO Stream.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\1. IO Stream\obj\Debug\_1.IO_Stream.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\1. IO Stream\obj\Debug\_1.IO_Stream.pdb
