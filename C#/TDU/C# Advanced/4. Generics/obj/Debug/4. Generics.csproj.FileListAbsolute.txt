@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\4. Generics\bin\Debug\_4.Generics.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\4. Generics\bin\Debug\_4.Generics.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\4. Generics\obj\Debug\4. Generics.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\4. Generics\obj\Debug\4. Generics.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\4. Generics\obj\Debug\_4.Generics.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\4. Generics\obj\Debug\_4.Generics.pdb

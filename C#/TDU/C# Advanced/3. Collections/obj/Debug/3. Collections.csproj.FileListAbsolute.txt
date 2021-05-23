@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\3. Collections\bin\Debug\_3.Collections.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\3. Collections\bin\Debug\_3.Collections.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\3. Collections\obj\Debug\3. Collections.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\3. Collections\obj\Debug\3. Collections.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\3. Collections\obj\Debug\_3.Collections.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\3. Collections\obj\Debug\_3.Collections.pdb
