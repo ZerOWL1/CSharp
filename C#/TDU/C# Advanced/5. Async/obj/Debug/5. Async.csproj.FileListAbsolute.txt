@@ -1,0 +1,7 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\bin\Debug\_5.Async.exe.config
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\bin\Debug\_5.Async.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\bin\Debug\_5.Async.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\obj\Debug\5. Async.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\obj\Debug\5. Async.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\obj\Debug\_5.Async.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\TDU C#\C# Advanced\CSharp Advanced\5. Async\obj\Debug\_5.Async.pdb
