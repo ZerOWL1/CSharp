@@ -1,11 +1,17 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Registration Form", "1. Registration Form\1. Registration Form.csproj", "{1D32FC33-6E42-42D6-91B1-BFD215079BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0. ASP .NET Core Elements", "0. ASP .NET Core Elements\0. ASP .NET Core Elements.csproj", "{8FB84268-4C76-4710-9D5E-159B61F9D1AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0. ASP .NET Core Elements", "0. ASP .NET Core Elements\0. ASP .NET Core Elements.csproj", "{8FB84268-4C76-4710-9D5E-159B61F9D1AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Core Environment", "2. Core Environment\2. Core Environment.csproj", "{3A5FD9CF-D912-4BFC-8744-5A6602B62F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Razor View Engine", "4. Razor View Engine\4. Razor View Engine.csproj", "{E66CD729-8E08-4FDE-852C-A37FA9AD759E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Entity Framework Core and ADO .NET", "3. Entity Framework Core and ADO .NET\3. Entity Framework Core and ADO .NET.csproj", "{CBCDEC59-3F2F-49DB-8E04-634592A8B9A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{8FB84268-4C76-4710-9D5E-159B61F9D1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FB84268-4C76-4710-9D5E-159B61F9D1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FB84268-4C76-4710-9D5E-159B61F9D1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5FD9CF-D912-4BFC-8744-5A6602B62F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5FD9CF-D912-4BFC-8744-5A6602B62F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5FD9CF-D912-4BFC-8744-5A6602B62F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5FD9CF-D912-4BFC-8744-5A6602B62F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66CD729-8E08-4FDE-852C-A37FA9AD759E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66CD729-8E08-4FDE-852C-A37FA9AD759E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66CD729-8E08-4FDE-852C-A37FA9AD759E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66CD729-8E08-4FDE-852C-A37FA9AD759E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCDEC59-3F2F-49DB-8E04-634592A8B9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCDEC59-3F2F-49DB-8E04-634592A8B9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCDEC59-3F2F-49DB-8E04-634592A8B9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCDEC59-3F2F-49DB-8E04-634592A8B9A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -29,3 +47,4 @@ Global
 		SolutionGuid = {D7B7B837-F18C-48CC-89E8-CF54F12D264B}
 	EndGlobalSection
 EndGlobal
+
