@@ -1,0 +1,12 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\bin\Debug\_1.First_Winform_App.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\bin\Debug\_1.First_Winform_App.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\1. First Winform App.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\_1.First_Winform_App.Properties.Resources.resources
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\1. First Winform App.csproj.GenerateResource.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\1. First Winform App.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\_1.First_Winform_App.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\_1.First_Winform_App.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\_1.First_Winform_App.FrmLogin.resources
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\bin\Debug\_1.First_Winform_App.exe.config
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\_1.First_Winform_App.FrmAdmin.resources
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Winform\FPT Winform\1. First Winform App\obj\Debug\_1.First_Winform_App.FrmModerator.resources
