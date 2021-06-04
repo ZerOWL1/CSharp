@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex5. Interface\bin\Debug\Ex5.Interface.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex5. Interface\bin\Debug\Ex5.Interface.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex5. Interface\obj\Debug\Ex5. Interface.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex5. Interface\obj\Debug\Ex5. Interface.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex5. Interface\obj\Debug\Ex5.Interface.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex5. Interface\obj\Debug\Ex5.Interface.pdb

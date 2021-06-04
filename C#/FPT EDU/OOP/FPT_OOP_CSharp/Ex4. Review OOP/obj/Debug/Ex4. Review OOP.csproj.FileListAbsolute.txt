@@ -1,0 +1,6 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex4. Review OOP\bin\Debug\Ex4.Review_OOP.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex4. Review OOP\bin\Debug\Ex4.Review_OOP.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex4. Review OOP\obj\Debug\Ex4. Review OOP.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex4. Review OOP\obj\Debug\Ex4. Review OOP.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex4. Review OOP\obj\Debug\Ex4.Review_OOP.exe
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\FPT C#\Demo_OOP\FPT_OOP_CSharp\Ex4. Review OOP\obj\Debug\Ex4.Review_OOP.pdb
