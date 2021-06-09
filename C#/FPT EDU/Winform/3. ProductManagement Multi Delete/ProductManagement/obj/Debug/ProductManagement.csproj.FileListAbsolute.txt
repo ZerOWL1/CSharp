@@ -1,0 +1,40 @@
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.FrmCategory.resources
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\thopn\Desktop\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.FrmCategory.resources
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\thopn\Desktop\ProductManagement_Template\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.FrmCategory.resources
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\Ryuu\Desktop\Labs\Lab2s\ProductManagement_Template\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.FrmCategory.resources
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\Ryuu\Desktop\Labs\Lab2s\2. ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
