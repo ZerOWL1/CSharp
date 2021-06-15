@@ -1,0 +1,11 @@
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.csprojAssemblyReference.cache
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.Properties.Resources.resources
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.csproj.GenerateResource.cache
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.frmAdd.resources
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.frmEmployee.resources
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\bin\Debug\Lab3_HE141223_HaiLD.exe.config
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\bin\Debug\Lab3_HE141223_HaiLD.exe
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\bin\Debug\Lab3_HE141223_HaiLD.pdb
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.exe
+C:\Users\Ryuu\source\repos\Labs\Lab3_HE141223_HaiLD\obj\Debug\Lab3_HE141223_HaiLD.pdb
