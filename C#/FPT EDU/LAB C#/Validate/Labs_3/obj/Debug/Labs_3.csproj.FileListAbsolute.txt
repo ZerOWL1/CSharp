@@ -1,0 +1,11 @@
+C:\Users\Ryuu\Desktop\Labs\Labs_3\bin\Debug\Labs_3.exe.config
+C:\Users\Ryuu\Desktop\Labs\Labs_3\bin\Debug\Labs_3.exe
+C:\Users\Ryuu\Desktop\Labs\Labs_3\bin\Debug\Labs_3.pdb
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.frmAdd.resources
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.frmEmployee.resources
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.Properties.Resources.resources
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.csproj.GenerateResource.cache
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.exe
+C:\Users\Ryuu\Desktop\Labs\Labs_3\obj\Debug\Labs_3.pdb
