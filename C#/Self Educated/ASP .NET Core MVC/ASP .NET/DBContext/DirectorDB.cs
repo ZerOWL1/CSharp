@@ -41,7 +41,7 @@ namespace _6._Generic_Reponsitory.Models.LoadDB
                         DNation = dr.GetString(2)
                     });
                 }
-                cmd.Clone();
+                cmd.Close();
             }
             catch (Exception e)
             {
