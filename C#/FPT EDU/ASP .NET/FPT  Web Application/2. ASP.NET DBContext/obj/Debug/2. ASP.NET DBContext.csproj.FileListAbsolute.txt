@@ -1,0 +1,7 @@
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\bin\_2.ASP.NET_DBContext.dll.config
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\bin\_2.ASP.NET_DBContext.dll
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\bin\_2.ASP.NET_DBContext.pdb
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\obj\Debug\2. ASP.NET DBContext.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\obj\Debug\2. ASP.NET DBContext.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\obj\Debug\_2.ASP.NET_DBContext.dll
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\2. ASP.NET DBContext\obj\Debug\_2.ASP.NET_DBContext.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\bin\_1.First_Web_Application.dll.config
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\bin\_1.First_Web_Application.dll
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\bin\_1.First_Web_Application.pdb
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\obj\Debug\1. First Web Application.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\obj\Debug\1. First Web Application.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\obj\Debug\_1.First_Web_Application.dll
+C:\Users\Ryuu\Desktop\C# Project\Web\FPT  Web Application\1. First Web Application\obj\Debug\_1.First_Web_Application.pdb
